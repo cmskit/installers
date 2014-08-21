@@ -1,5 +1,5 @@
 {
-    "name": "composer/installers",
+    "name": "cmskit/installers",
     "type": "composer-installer",
     "license": "MIT",
     "description": "A multi-framework Composer library installer",
@@ -10,6 +10,7 @@
         "Bitrix",
         "CakePHP",
         "Chef",
+        "cms-kit",
         "CodeIgniter",
         "concrete5",
         "Craft",
